@@ -2,7 +2,7 @@
 
 This repository contains solutions to the following GCS -2 Problems for Negpod-1:
 
-## Problem 1
+## Problem 1 🔍
 
 Write a shell script that will print the strings `one`,` two`,` three`,` four`, and `five` on the screen with each appearing on a separate line. Also, create a text file that has each of these on a separate line and the file name starts with today's date `yyyy-mm-dd-file.txt`. Note: Don’t add today’s date manually.
 
@@ -15,7 +15,7 @@ $ ./print_strings
 ```
 The text file with the strings is also created by this script, and its name starts with the current date in the format `yyyy-mm-dd-file.txt`. For example, if today is `February 15, 2023`, the file name would be `2023-02-15-file.txt`.
 
-## Problem 2
+## Problem 2 🔍
 
 Write a script that generates two random numbers, and print each of these numbers and their square roots. Then finally print the sum of their square roots on the screen. The expected output is as below
 
@@ -35,7 +35,7 @@ $ ./calculate_square_roots
 ```
 The script will output the two random numbers, their square roots, and the sum of their square roots, as shown in the example in the problem statement.
 
-## Problem 3
+## Problem 3 🔍
 
 Write a shell script that asks the user to type a phrase, then tells the user the number of words in the phrase and the number of white spaces. The expected output is:
 
