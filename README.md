@@ -19,11 +19,11 @@ The text file with the strings is also created by this script, and its name star
 
 Write a script that generates two random numbers, and print each of these numbers and their square roots. Then finally print the sum of their square roots on the screen. The expected output is as below
 
-The first random number generated is `20243`   
-The square root is `142`   
-The second random number generated is `9759`  
-The square root is `98`   
-The sum of their square roots is `240`
+- The first random number generated is `20243`   
+- The square root is `142`   
+- The second random number generated is `9759`  
+- The square root is `98`   
+- The sum of their square roots is `240`
 
 
 ## Solution ✅
@@ -39,8 +39,8 @@ The script will output the two random numbers, their square roots, and the sum o
 
 Write a shell script that asks the user to type a phrase, then tells the user the number of words in the phrase and the number of white spaces. The expected output is:
 
-The number of words is `4`    
-The number of white spaces is `3`
+- The number of words is `4`    
+- The number of white spaces is `3`
 
 ## Solution ✅
 
