@@ -1,0 +1,8 @@
+#!/bin/bash
+FILENAME="$(date +'%Y-%m-%d')-file.txt"
+
+echo "one" | tee $FILENAME
+echo "two" | tee -a $FILENAME
+echo "three" | tee -a $FILENAME
+echo "four" | tee -a $FILENAME
+echo "five" | tee -a $FILENAME
