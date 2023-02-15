@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Generate two random numbers
+num1=$((1 + RANDOM % 100000))
+num2=$((1 + RANDOM % 100000))
+
+# Calculate the square roots
+sqrt1=$(echo "scale=0; sqrt($num1)" | bc)
+sqrt2=$(echo "scale=0; sqrt($num2)" | bc)
+
+# Print the results
+echo "The first random number generated is $num1"
+echo "The square root is $sqrt1"
+echo "The second random number generated is $num2"
+echo "The square root is $sqrt2"
+echo "The sum of their square roots is $(($sqrt1 + $sqrt2))"
