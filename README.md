@@ -6,7 +6,7 @@ This repository contains solutions to the following GCS -2 Problems for Negpod-1
 
 Write a shell script that will print the strings `one`,` two`,` three`,` four`, and `five` on the screen with each appearing on a separate line. Also, create a text file that has each of these on a separate line and the file name starts with today's date `yyyy-mm-dd-file.txt`. Note: Don’t add today’s date manually.
 
-## Solution 💡
+## Solution ✅
 
 The solution to this problem can be found in the `print_strings` file of this repository. It can be run from the command line as follows:
 
@@ -26,7 +26,7 @@ The square root is `98`
 The sum of their square roots is `240`
 
 
-## Solution 💡
+## Solution ✅
 
 The shell script that generates the random numbers and calculates their square roots is called `calculate_square_roots`. It can be run from the command line as follows:
 
@@ -42,7 +42,7 @@ Write a shell script that asks the user to type a phrase, then tells the user th
 The number of words is `4`    
 The number of white spaces is `3`
 
-## Solution 💡
+## Solution ✅
 
 The shell script that asks the user for input and counts the number of words and white spaces is called `count_words_and_spaces`. It can be run from the command line as follows:
 
