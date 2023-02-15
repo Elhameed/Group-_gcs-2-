@@ -11,7 +11,7 @@ Write a shell script that will print the strings `one`,` two`,` three`,` four`, 
 The solution to this problem can be found in the `print_strings` file of this repository. It can be run from the command line as follows:
 
 ```sh
-$ ./print_strings
+$ user@User: ./print_strings
 ```
 The text file with the strings is also created by this script, and its name starts with the current date in the format `yyyy-mm-dd-file.txt`. For example, if today is `February 15, 2023`, the file name would be `2023-02-15-file.txt`.
 
@@ -31,7 +31,7 @@ The sum of their square roots is `240`
 The shell script that generates the random numbers and calculates their square roots is called `calculate_square_roots`. It can be run from the command line as follows:
 
 ```sh
-$ ./calculate_square_roots
+$ user@User: ./calculate_square_roots
 ```
 The script will output the two random numbers, their square roots, and the sum of their square roots, as shown in the example in the problem statement.
 
@@ -47,7 +47,7 @@ The number of white spaces is `3`
 The shell script that asks the user for input and counts the number of words and white spaces is called `count_words_and_spaces`. It can be run from the command line as follows:
 
 ```sh
-$ ./count_words_and_spaces
+$ user@User: ./count_words_and_spaces
 ```
 The script will prompt the user to enter a phrase, and then output the number of words and white spaces in the phrase, as shown in the example in the problem statement.
 
