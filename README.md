@@ -62,7 +62,7 @@ a) Write a shell script that asks the user for two numbers and outputs their pro
 ```sh
 The product of 3 and 3 is 9.
 ```
-b)Suppose you want to create 4 folders. Create a text file with at least 4 words(folder name on each line). Write a shell script that reads each line of the text file. Then creates a corresponding folder for each folder name.
+b) Suppose you want to create 4 folders. Create a text file with at least 4 words(folder name on each line). Write a shell script that reads each line of the text file. Then creates a corresponding folder for each folder name.
 
 ## Solution ✅
 
