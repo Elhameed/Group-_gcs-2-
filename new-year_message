@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Generates a personalized message for each name
+
+#read the group member names form the names file
+names_file="names.txt"
+names=$(cat "$names_file")
+
+#readmessage template from the message file
+message_file="message_template.txt"
+message=$(cat "$message_file")
+
+#loop through each name and generate a personalized message
+for name in $names; do
+	#replace the placeholder in the message
+	personalized_message=$(echo "$message" | sed "s/Recipeints_Name/$name/g")
+
+	#create a new file with personalized message
+	echo "$personalized_message" > "$name.txt"
+done
+
