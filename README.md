@@ -2,6 +2,10 @@
 
 This repository contains solutions to the following GCS-2 Problems for Negpod-1:
 
+## Test :file_folder:
+
+The test directory is a directory that contains automated tests for the shell scripts of each problem in this repository.
+
 ## Problem 1 🔍
 
 Write a shell script that will print the strings `one`, `two`, `three`, `four`, and `five` on the screen with each appearing on a separate line. Also, create a text file that has each of these on a separate line and the file name starts with today's date `yyyy-mm-dd-file.txt`. Note: Don’t add today’s date manually.
