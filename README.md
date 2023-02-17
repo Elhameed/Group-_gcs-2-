@@ -137,3 +137,14 @@ user@User:~/Group-_gcs-2-/test$ cat Noella.txt
 Happy New Year Noella!
 May the coming year be full of grand adventures and opportunities.
 ```
+
+## Collaborators 🤝
+
+[Abdulhameed Teniola Ajani](https://github.com/Elhameed)
+[Sadick Achuli](https://github.com/Sadickachuli)
+[Noella Uwayo](https://github.com/n-uwayo)
+[Iraduhaye Paterne](https://github.com/IraduhayeBukuruPaterne1)
+[Innocent Manzi](https://github.com/innocentmanzi)
+[Iranzi Prince](https://github.com/iranziprince01)
+[Mohammed Yasin](https://github.com/MohamedAYasin)
+[Sabir Walid]()
