@@ -4,7 +4,7 @@ This repository contains solutions to the following GCS-2 Problems for Negpod-1:
 
 ## Test :file_folder:
 
-The test directory is a directory that contains automated tests for the shell scripts of each problem in this repository.
+The [test](./test/) directory is a directory that contains automated tests for the shell scripts of each problem in this repository.
 
 ## Problem 1 🔍
 
