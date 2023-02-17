@@ -126,9 +126,9 @@ The shell script that creates personalized messages for each recipient is [new-y
 ```sh
 user@User:~$ ./new-year_message
 ```
-The script will read the text file `names.txt`, which is in the same directory as the script, and the message template in `message_template.txt`. It will then create a personalized message for each recipient in a file named after the recipient. For example, if the recipient's name is `John`, the file name would be `John.txt`. The message in the file will be personalized with the recipient's name, as shown below:
+The script will read the text file [names.txt](./names.txt), which is in the same directory as the script, and the message template in [message_template.txt](./message_template.txt). It will then create a personalized message for each recipient in a file named after the recipient. For example, if the recipient's name is `Noella`, the file name would be [Noella.txt](./test/Noella.txt). The message in the file will be personalized with the recipient's name, as shown below:
 
 ```sh
-Happy New Year John!
+Happy New Year Noella!
 May the coming year be full of grand adventures and opportunities.
 ```
