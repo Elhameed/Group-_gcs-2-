@@ -147,4 +147,4 @@ May the coming year be full of grand adventures and opportunities.
 - [Innocent Manzi](https://github.com/innocentmanzi)
 - [Iranzi Prince](https://github.com/iranziprince01)
 - [Mohammed Yasin](https://github.com/MohamedAYasin)
-- [Sabir Walid]()
+- [Sabir Walid](https://github.com/SabirWalid)
