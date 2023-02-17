@@ -69,7 +69,7 @@ user@User:~$ ./product-of_2_numbers
 ```
 The script will prompt the user to enter 2 numbers, and then output the product of the 2 numbers, as shown in the example in the problem statement.
 
-b) The shell script that reads each line of a text file [folders.txt](./folders.txt), then creates a corresponding folder for each folder names is called [create-folders](./create-folders). It can be run from the command line as follows:
+b) The shell script that reads each line of a text file [folders.txt](./folders.txt), then creates a corresponding folder for each folder name is called [create-folders](./create-folders). It can be run from the command line as follows:
 
 ```sh
 user@User:~$ ./create-folders
