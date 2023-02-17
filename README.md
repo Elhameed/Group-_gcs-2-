@@ -82,7 +82,8 @@ The script will reads each line of the text file [folders.txt](./folders.txt), t
 
 ## Problem 5 🔍
 
-Write a shell script that takes a path, and confirms if it is a directory or not. If it is a directory list all files in that directory, if not ask the user to give the file path of a directory.  Expected output: List of files in the directory path that was provided
+Write a shell script that takes a path, and confirms if it is a directory or not. If it is a directory list all files in that directory, if not ask the user to give the file path of a directory.  
+Expected output: List of files in the directory path that was provided
 
 ## Solution ✅
 
