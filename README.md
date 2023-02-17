@@ -140,8 +140,8 @@ May the coming year be full of grand adventures and opportunities.
 
 ## Collaborators 🤝
 
-- [Abdulhameed Teniola Ajani](https://github.com/Elhameed)
 - [Sadick Achuli](https://github.com/Sadickachuli)
+- [Abdulhameed Teniola Ajani](https://github.com/Elhameed)
 - [Noella Uwayo](https://github.com/n-uwayo)
 - [Iraduhaye Paterne](https://github.com/IraduhayeBukuruPaterne1)
 - [Innocent Manzi](https://github.com/innocentmanzi)
