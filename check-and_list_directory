@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# This is a file that chaecks for a directories and lists the contents in it
+
+read -p "Enter a path: " path
+
+if [ -d "$path" ]; then
+  echo "The path you entered is a directory"
+  echo "Listing all files in the directory:"
+  ls -la "$path"
+
+else
+	echo "The path you entered is not a directory"
+	read -p "Please enter a new directory: " newpath
+
+	if [ -d "$newpath" ]; then
+		echo "The path you entered is a directory"
+		echo "Listing all files in the directory"
+		ls -la "$newpath"
+	else
+		echo "The path you entered is not a directory. Exiting..."
+		exit 1
+	fi
+fi

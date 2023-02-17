@@ -14,3 +14,4 @@ echo "The square root is $sqrt1"
 echo "The second random number generated is $num2"
 echo "The square root is $sqrt2"
 echo "The sum of their square roots is $(($sqrt1 + $sqrt2))"
+

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Insert File Description
+
+while read folder; do
+	mkdir "$folder"
+	echo "Created folder $folder"
+done < folders.txt
