@@ -8,7 +8,7 @@ Write a shell script that will print the strings `one`, `two`, `three`, `four`, 
 
 ## Solution ✅
 
-The solution to this problem can be found in the `print_strings` file of this repository. It can be run from the command line as follows:
+The solution to this problem can be found in the [print_strings](./print_strings) file of this repository. It can be run from the command line as follows:
 
 ```sh
 user@User:~$ ./print_strings
@@ -28,7 +28,7 @@ Write a script that generates two random numbers, and print each of these number
 
 ## Solution ✅
 
-The shell script that generates the random numbers and calculates their square roots is called `calculate_square_roots`. It can be run from the command line as follows:
+The shell script that generates the random numbers and calculates their square roots is called [calculate_square_roots](./calculate_square_roots). It can be run from the command line as follows:
 
 ```sh
 user@User:~$ ./calculate_square_roots
@@ -44,7 +44,7 @@ Write a shell script that asks the user to type a phrase, then tells the user th
 
 ## Solution ✅
 
-The shell script that asks the user for input and counts the number of words and white spaces is called `count_words_and_spaces`. It can be run from the command line as follows:
+The shell script that asks the user for input and counts the number of words and white spaces is called [count_words_and_spaces](./count_words_and_spaces). It can be run from the command line as follows:
 
 ```sh
 user@User:~$ ./count_words_and_spaces
