@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Generates a personalized message for each name
 
-#rea the group member names form the names file
+#read the group member names form the names file
 names_file="names.txt"
 names=$(cat "$names_file")
 
