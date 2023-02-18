@@ -136,7 +136,7 @@ The script will read the text file [names.txt](./names.txt), which is in the sam
 ```sh
 user@User:~/Group-_gcs-2-/test$ cat Noella.txt
 Happy New Year Noella!
-May the coming year be full of grand adventures and opportunities.
+May the coming year be full of grand adventure and opportunities.
 ```
 
 ## Collaborators 🤝
