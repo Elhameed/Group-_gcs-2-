@@ -5,7 +5,7 @@ num1=$((1 + RANDOM % 100000))
 num2=$((1 + RANDOM % 100000))
 
 # Calculate the square roots
-sqrt1=$(echo "scale=0; sqrt($num1)" | bc)
+sqrt1=$(echo "scale=0; sqrt($num1)" | b)
 sqrt2=$(echo "scale=0; sqrt($num2)" | bc)
 
 # Print the results
