@@ -1,7 +1,10 @@
 #!/bin/bash
+#collects input from user
 read -p "Type a phrase: " message
 
+#outputs the number words in the message
 echo "The number of the words is $(echo $message | wc -w)"
 
+#counts the number of white spaces and outputs it
 count=$(echo -n "$message" | tr -d -c '[:space:]' | wc -m)
 echo "The number of white spaces is $count"
