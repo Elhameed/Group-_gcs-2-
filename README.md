@@ -1,5 +1,5 @@
 # Project Solutions 📃
-...
+
 This repository contains solutions to the following GCS-2 Problems for Negpod-1:
 
 ## Test :file_folder:
